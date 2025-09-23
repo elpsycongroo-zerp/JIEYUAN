@@ -3,6 +3,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往"
         ]
@@ -11,6 +12,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允"
         ]
@@ -19,6 +21,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允"
         ]
@@ -27,7 +30,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常"
         ]
@@ -36,6 +39,7 @@
         "recognition": "TemplateMatch",
         "template": "衡如常.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定衡如常"
         ]
@@ -44,7 +48,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "结果"
         ]
@@ -53,6 +57,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "收下",
             "离开"
@@ -62,6 +67,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开"
         ]
@@ -70,7 +76,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来",
             "退出"
@@ -80,6 +86,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来"
         ]
@@ -88,7 +95,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常"
         ]
@@ -97,6 +104,7 @@
         "recognition": "TemplateMatch",
         "template": "收下.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定收下"
         ]
@@ -105,7 +113,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出"
         ]
@@ -113,7 +121,7 @@
     "退出": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "next": [
             "令常乐1"
@@ -123,6 +131,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往1"
         ]
@@ -131,6 +140,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允1"
         ]
@@ -139,6 +149,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允1"
         ]
@@ -147,7 +158,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常1"
         ]
@@ -156,6 +167,7 @@
         "recognition": "TemplateMatch",
         "template": "衡如常.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定衡如常1"
         ]
@@ -163,7 +175,7 @@
     "确定衡如常1": {
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "action": "Click",
         "next": [
             "结果1"
@@ -173,6 +185,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "收下1",
             "离开1"
@@ -182,6 +195,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开1"
         ]
@@ -190,7 +204,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来1",
             "退出1"
@@ -200,6 +214,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来1"
         ]
@@ -208,7 +223,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常1"
         ]
@@ -217,6 +232,7 @@
         "recognition": "TemplateMatch",
         "template": "收下.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定收下1"
         ]
@@ -225,7 +241,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出1"
         ]
@@ -233,7 +249,7 @@
     "退出1": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "next": [
             "令常乐2"
@@ -243,6 +259,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往2"
         ]
@@ -251,6 +268,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允2"
         ]
@@ -259,6 +277,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允2"
         ]
@@ -267,7 +286,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常2"
         ]
@@ -276,6 +295,7 @@
         "recognition": "TemplateMatch",
         "template": "衡如常.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定衡如常2"
         ]
@@ -284,7 +304,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "结果2"
         ]
@@ -293,6 +313,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "收下2",
             "离开2"
@@ -302,6 +323,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开2"
         ]
@@ -310,7 +332,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来2",
             "退出2"
@@ -320,6 +342,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来2"
         ]
@@ -328,7 +351,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常2"
         ]
@@ -337,6 +360,7 @@
         "recognition": "TemplateMatch",
         "template": "收下.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定收下2"
         ]
@@ -345,7 +369,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出2"
         ]
@@ -353,7 +377,7 @@
     "退出2": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "next": [
             "令常乐3"
@@ -363,6 +387,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往3"
         ]
@@ -371,6 +396,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允3"
         ]
@@ -379,6 +405,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允3"
         ]
@@ -387,7 +414,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常3"
         ]
@@ -396,6 +423,7 @@
         "recognition": "TemplateMatch",
         "template": "衡如常.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定衡如常3"
         ]
@@ -404,7 +432,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "结果3"
         ]
@@ -413,6 +441,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "收下3",
             "离开3"
@@ -422,6 +451,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开3"
         ]
@@ -430,7 +460,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来3",
             "退出3"
@@ -440,6 +470,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来3"
         ]
@@ -448,7 +479,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常3"
         ]
@@ -457,6 +488,7 @@
         "recognition": "TemplateMatch",
         "template": "收下.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定收下3"
         ]
@@ -465,7 +497,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出3"
         ]
@@ -473,7 +505,7 @@
     "退出3": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "next": [
             "令常乐4"
@@ -483,6 +515,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往4"
         ]
@@ -491,6 +524,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允4"
         ]
@@ -499,6 +533,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允4"
         ]
@@ -507,7 +542,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常4"
         ]
@@ -516,6 +551,7 @@
         "recognition": "TemplateMatch",
         "template": "衡如常.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定衡如常4"
         ]
@@ -524,7 +560,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "结果4"
         ]
@@ -533,6 +569,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "收下4",
             "离开4"
@@ -542,6 +579,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开4"
         ]
@@ -550,7 +588,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来4",
             "退出4"
@@ -560,6 +598,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来4"
         ]
@@ -568,7 +607,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "衡如常4"
         ]
@@ -577,6 +616,7 @@
         "recognition": "TemplateMatch",
         "template": "收下.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定收下4"
         ]
@@ -585,7 +625,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出4"
         ]
@@ -593,7 +633,7 @@
     "退出4": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "action": "Click",
         "next": [
             "令常乐5"
@@ -603,6 +643,7 @@
         "recognition": "TemplateMatch",
         "template": "令常乐.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "出发前往5"
         ]
@@ -611,6 +652,7 @@
         "recognition": "TemplateMatch",
         "template": "出发前往.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "欣然应允5"
         ]
@@ -619,6 +661,7 @@
         "recognition": "TemplateMatch",
         "template": "欣然应允.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定欣然应允5"
         ]
@@ -627,7 +670,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "厉如锋5"
         ]
@@ -636,6 +679,7 @@
         "recognition": "TemplateMatch",
         "template": "厉如锋.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定厉如锋5"
         ]
@@ -644,7 +688,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "结果5"
         ]
@@ -653,6 +697,7 @@
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "要酒一壶5",
             "离开5"
@@ -662,6 +707,7 @@
         "recognition": "TemplateMatch",
         "template": "离开.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定离开5"
         ]
@@ -670,7 +716,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "来就来5",
             "退出5"
@@ -680,6 +726,7 @@
         "recognition": "TemplateMatch",
         "template": "来就来.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定来就来5"
         ]
@@ -688,7 +735,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "厉如锋5"
         ]
@@ -697,6 +744,7 @@
         "recognition": "TemplateMatch",
         "template": "要酒一壶.png",
         "action": "Click",
+        "pre_wait_freezes": 2000,
         "next": [
             "确定要酒一壶5"
         ]
@@ -705,7 +753,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 2000,
         "next": [
             "退出5"
         ]
@@ -713,7 +761,7 @@
     "退出5": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 5000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "next": [
             "令常乐"
