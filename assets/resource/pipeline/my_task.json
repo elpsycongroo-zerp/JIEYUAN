@@ -1,8 +1,119 @@
 {
-    "MyTask4": {
+    "令常乐": {
         "recognition": "TemplateMatch",
-        "template": "MyTask4.png",
-        "index": "",
+        "template": "令常乐.png",
+        "action": "Click",
+        "next": [
+            "出发前往"
+        ]
+    },
+    "出发前往": {
+        "recognition": "TemplateMatch",
+        "template": "出发前往.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "欣然应允"
+        ]
+    },
+    "欣然应允": {
+        "recognition": "TemplateMatch",
+        "template": "欣然应允.png",
+        "action": "Click",
+        "next": [
+            "确定欣然应允"
+        ]
+    },
+    "确定欣然应允": {
+        "recognition": "TemplateMatch",
+        "template": "确定这么做.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "衡如常"
+        ]
+    },
+    "衡如常": {
+        "recognition": "TemplateMatch",
+        "template": "衡如常.png",
+        "action": "Click",
+        "next": [
+            "确定衡如常"
+        ]
+    },
+    "确定衡如常": {
+        "recognition": "TemplateMatch",
+        "template": "确定这么做.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "结果"
+        ]
+    },
+    "结果": {
+        "recognition": "TemplateMatch",
+        "template": "结果.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "收下",
+            "离开"
+        ]
+    },
+    "离开": {
+        "recognition": "TemplateMatch",
+        "template": "离开.png",
+        "action": "Click",
+        "next": [
+            "确定离开"
+        ]
+    },
+    "确定离开": {
+        "recognition": "TemplateMatch",
+        "template": "确定这么做.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "来就来"
+        ]
+    },
+    "来就来": {
+        "recognition": "TemplateMatch",
+        "template": "来就来.png",
+        "action": "Click",
+        "next": [
+            "确定来就来"
+        ]
+    },
+    "确定来就来": {
+        "recognition": "TemplateMatch",
+        "template": "确定这么做.png",
+        "action": "Click",
+        "pre_wait_freezes": 5000,
+        "next": [
+            "衡如常"
+        ]
+    },
+    "收下": {
+        "recognition": "TemplateMatch",
+        "template": "收下.png",
+        "action": "Click",
+        "next": [
+            "确定收下"
+        ]
+    },
+    "确定收下": {
+        "recognition": "TemplateMatch",
+        "template": "确定这么做.png",
+        "action": "Click",
+        "next": [
+            "退出"
+        ]
+    },
+    "退出": {
+        "recognition": "TemplateMatch",
+        "template": "退出.png",
+        "action": "Click",
         "next": []
     }
 }
