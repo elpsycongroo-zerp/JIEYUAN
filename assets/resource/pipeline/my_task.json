@@ -108,7 +108,7 @@
     "退出": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 6000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐1"
@@ -223,7 +223,7 @@
     "退出1": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 9000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐2"
@@ -338,7 +338,7 @@
     "退出2": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 6000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐3"
@@ -453,7 +453,7 @@
     "退出3": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 6000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐4"
@@ -568,7 +568,7 @@
     "退出4": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 6000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐5"
@@ -683,7 +683,7 @@
     "退出5": {
         "recognition": "TemplateMatch",
         "template": "退出.png",
-        "pre_wait_freezes": 6000,
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "令常乐"
