@@ -27,6 +27,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常"
         ]
@@ -43,6 +44,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "结果"
         ]
@@ -68,6 +70,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来",
             "退出"
@@ -85,6 +88,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常"
         ]
@@ -101,6 +105,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出"
         ]
@@ -142,6 +147,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常1"
         ]
@@ -157,6 +163,7 @@
     "确定衡如常1": {
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
+        "pre_wait_freezes": 5000,
         "action": "Click",
         "next": [
             "结果1"
@@ -183,6 +190,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来1",
             "退出1"
@@ -200,6 +208,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常1"
         ]
@@ -216,6 +225,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出1"
         ]
@@ -257,6 +267,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常2"
         ]
@@ -273,6 +284,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "结果2"
         ]
@@ -298,6 +310,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来2",
             "退出2"
@@ -315,6 +328,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常2"
         ]
@@ -331,6 +345,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出2"
         ]
@@ -372,6 +387,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常3"
         ]
@@ -388,6 +404,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "结果3"
         ]
@@ -413,6 +430,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来3",
             "退出3"
@@ -430,6 +448,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常3"
         ]
@@ -446,6 +465,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出3"
         ]
@@ -487,6 +507,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常4"
         ]
@@ -503,6 +524,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "结果4"
         ]
@@ -528,6 +550,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来4",
             "退出4"
@@ -545,6 +568,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "衡如常4"
         ]
@@ -561,6 +585,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出4"
         ]
@@ -602,6 +627,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "厉如锋5"
         ]
@@ -618,6 +644,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "结果5"
         ]
@@ -643,6 +670,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "来就来5",
             "退出5"
@@ -660,6 +688,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "厉如锋5"
         ]
@@ -676,6 +705,7 @@
         "recognition": "TemplateMatch",
         "template": "确定这么做.png",
         "action": "Click",
+        "pre_wait_freezes": 5000,
         "next": [
             "退出5"
         ]
