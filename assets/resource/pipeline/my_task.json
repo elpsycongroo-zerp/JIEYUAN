@@ -18,7 +18,7 @@
         ]
     },
     "欣然应允": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "欣然应允",
         "action": "Click",
@@ -35,7 +35,7 @@
         ]
     },
     "衡如常": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "衡如常",
         "action": "Click",
@@ -52,7 +52,7 @@
         ]
     },
     "结果": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -62,7 +62,7 @@
         ]
     },
     "离开": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -80,7 +80,7 @@
         ]
     },
     "来就来": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -97,7 +97,7 @@
         ]
     },
     "收下": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
@@ -141,7 +141,7 @@
         ]
     },
     "欣然应允1": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "欣然应允",
         "action": "Click",
@@ -158,7 +158,7 @@
         ]
     },
     "衡如常1": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "衡如常",
         "action": "Click",
@@ -175,7 +175,7 @@
         ]
     },
     "结果1": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -185,7 +185,7 @@
         ]
     },
     "离开1": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -203,7 +203,7 @@
         ]
     },
     "来就来1": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -220,7 +220,7 @@
         ]
     },
     "收下1": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
@@ -264,7 +264,7 @@
         ]
     },
     "欣然应允2": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "欣然应允",
         "action": "Click",
@@ -281,7 +281,7 @@
         ]
     },
     "衡如常2": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "衡如常",
         "action": "Click",
@@ -298,7 +298,7 @@
         ]
     },
     "结果2": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -308,7 +308,7 @@
         ]
     },
     "离开2": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -326,7 +326,7 @@
         ]
     },
     "来就来2": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -343,7 +343,7 @@
         ]
     },
     "收下2": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
@@ -387,7 +387,7 @@
         ]
     },
     "欣然应允3": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "欣然应允",
         "action": "Click",
@@ -404,7 +404,7 @@
         ]
     },
     "衡如常3": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "衡如常",
         "action": "Click",
@@ -421,7 +421,7 @@
         ]
     },
     "结果3": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -431,7 +431,7 @@
         ]
     },
     "离开3": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -449,7 +449,7 @@
         ]
     },
     "来就来3": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -466,7 +466,7 @@
         ]
     },
     "收下3": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
@@ -510,7 +510,7 @@
         ]
     },
     "欣然应允4": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "action": "Click",
         "recognition": "OCR",
         "expected": "欣然应允",
@@ -527,7 +527,7 @@
         ]
     },
     "衡如常4": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "衡如常",
         "action": "Click",
@@ -544,7 +544,7 @@
         ]
     },
     "结果4": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -554,7 +554,7 @@
         ]
     },
     "离开4": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -572,7 +572,7 @@
         ]
     },
     "来就来4": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -589,7 +589,7 @@
         ]
     },
     "收下4": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
@@ -633,7 +633,7 @@
         ]
     },
     "欣然应允5": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "欣然应允",
         "action": "Click",
@@ -650,7 +650,7 @@
         ]
     },
     "厉如锋5": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "厉如锋",
         "action": "Click",
@@ -667,7 +667,7 @@
         ]
     },
     "结果5": {
-        "pre_wait_freezes": 4000,
+        "pre_wait_freezes": 3000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -677,7 +677,7 @@
         ]
     },
     "离开5": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "离开",
         "action": "Click",
@@ -695,7 +695,7 @@
         ]
     },
     "来就来5": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "来就来",
         "action": "Click",
@@ -712,7 +712,7 @@
         ]
     },
     "要酒一壶5": {
-        "pre_wait_freezes": 2000,
+        "pre_wait_freezes": 3000,
         "recognition": "OCR",
         "expected": "要酒一壶",
         "action": "Click",
