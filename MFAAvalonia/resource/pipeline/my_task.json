@@ -48,6 +48,7 @@
         ]
     },
     "结果": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -70,7 +71,7 @@
         "action": "Click",
         "next": [
             "来就来",
-            "重来"
+            "退出"
         ]
     },
     "来就来": {
@@ -103,14 +104,6 @@
         "action": "Click",
         "next": [
             "退出"
-        ]
-    },
-    "重来": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐"
         ]
     },
     "退出": {
@@ -170,6 +163,7 @@
         ]
     },
     "结果1": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -192,7 +186,7 @@
         "action": "Click",
         "next": [
             "来就来1",
-            "重来1"
+            "退出1"
         ]
     },
     "来就来1": {
@@ -225,14 +219,6 @@
         "action": "Click",
         "next": [
             "退出1"
-        ]
-    },
-    "重来1": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐1"
         ]
     },
     "退出1": {
@@ -292,6 +278,7 @@
         ]
     },
     "结果2": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -314,7 +301,7 @@
         "action": "Click",
         "next": [
             "来就来2",
-            "重来2"
+            "退出2"
         ]
     },
     "来就来2": {
@@ -347,14 +334,6 @@
         "action": "Click",
         "next": [
             "退出2"
-        ]
-    },
-    "重来2": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐2"
         ]
     },
     "退出2": {
@@ -414,6 +393,7 @@
         ]
     },
     "结果3": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -436,7 +416,7 @@
         "action": "Click",
         "next": [
             "来就来3",
-            "重来3"
+            "退出3"
         ]
     },
     "来就来3": {
@@ -469,14 +449,6 @@
         "action": "Click",
         "next": [
             "退出3"
-        ]
-    },
-    "重来3": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐3"
         ]
     },
     "退出3": {
@@ -536,6 +508,7 @@
         ]
     },
     "结果4": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -558,7 +531,7 @@
         "action": "Click",
         "next": [
             "来就来4",
-            "重来4"
+            "退出4"
         ]
     },
     "来就来4": {
@@ -591,14 +564,6 @@
         "action": "Click",
         "next": [
             "退出4"
-        ]
-    },
-    "重来4": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐4"
         ]
     },
     "退出4": {
@@ -658,6 +623,7 @@
         ]
     },
     "结果5": {
+        "pre_wait_freezes": 2000,
         "recognition": "TemplateMatch",
         "template": "结果.png",
         "action": "Click",
@@ -680,7 +646,7 @@
         "action": "Click",
         "next": [
             "来就来5",
-            "重来5"
+            "退出5"
         ]
     },
     "来就来5": {
@@ -713,14 +679,6 @@
         "action": "Click",
         "next": [
             "退出5"
-        ]
-    },
-    "重来5": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐5"
         ]
     },
     "退出5": {
