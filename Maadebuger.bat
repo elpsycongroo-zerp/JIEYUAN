@@ -1,1 +1,1 @@
-python -m MaaDebugger --port 8080
+python -m MaaDebugger

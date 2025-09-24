@@ -18,8 +18,8 @@
         ]
     },
     "欣然应允": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -27,8 +27,8 @@
         ]
     },
     "确定欣然应允": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -36,8 +36,8 @@
         ]
     },
     "衡如常": {
-        "recognition": "TemplateMatch",
-        "template": "衡如常.png",
+        "recognition": "OCR",
+        "expected": "衡如常",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -45,8 +45,8 @@
         ]
     },
     "确定衡如常": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -64,8 +64,8 @@
         ]
     },
     "离开": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -73,8 +73,8 @@
         ]
     },
     "确定离开": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -83,8 +83,8 @@
         ]
     },
     "来就来": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -92,8 +92,8 @@
         ]
     },
     "确定来就来": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -101,8 +101,8 @@
         ]
     },
     "收下": {
-        "recognition": "TemplateMatch",
-        "template": "收下.png",
+        "recognition": "OCR",
+        "expected": "收下",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -110,8 +110,8 @@
         ]
     },
     "确定收下": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -146,8 +146,8 @@
         ]
     },
     "欣然应允1": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -155,8 +155,8 @@
         ]
     },
     "确定欣然应允1": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -164,8 +164,8 @@
         ]
     },
     "衡如常1": {
-        "recognition": "TemplateMatch",
-        "template": "衡如常.png",
+        "recognition": "OCR",
+        "expected": "衡如常",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -173,8 +173,8 @@
         ]
     },
     "确定衡如常1": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -192,8 +192,8 @@
         ]
     },
     "离开1": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -201,8 +201,8 @@
         ]
     },
     "确定离开1": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -211,8 +211,8 @@
         ]
     },
     "来就来1": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -220,8 +220,8 @@
         ]
     },
     "确定来就来1": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -229,8 +229,8 @@
         ]
     },
     "收下1": {
-        "recognition": "TemplateMatch",
-        "template": "收下.png",
+        "recognition": "OCR",
+        "expected": "收下",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -238,8 +238,8 @@
         ]
     },
     "确定收下1": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -274,8 +274,8 @@
         ]
     },
     "欣然应允2": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -283,8 +283,8 @@
         ]
     },
     "确定欣然应允2": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -292,8 +292,8 @@
         ]
     },
     "衡如常2": {
-        "recognition": "TemplateMatch",
-        "template": "衡如常.png",
+        "recognition": "OCR",
+        "expected": "衡如常",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -301,8 +301,8 @@
         ]
     },
     "确定衡如常2": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -320,8 +320,8 @@
         ]
     },
     "离开2": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -329,8 +329,8 @@
         ]
     },
     "确定离开2": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -339,8 +339,8 @@
         ]
     },
     "来就来2": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -348,8 +348,8 @@
         ]
     },
     "确定来就来2": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -357,8 +357,8 @@
         ]
     },
     "收下2": {
-        "recognition": "TemplateMatch",
-        "template": "收下.png",
+        "recognition": "OCR",
+        "expected": "收下",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -366,8 +366,8 @@
         ]
     },
     "确定收下2": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -402,8 +402,8 @@
         ]
     },
     "欣然应允3": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -411,8 +411,8 @@
         ]
     },
     "确定欣然应允3": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -420,8 +420,8 @@
         ]
     },
     "衡如常3": {
-        "recognition": "TemplateMatch",
-        "template": "衡如常.png",
+        "recognition": "OCR",
+        "expected": "衡如常",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -429,8 +429,8 @@
         ]
     },
     "确定衡如常3": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -448,8 +448,8 @@
         ]
     },
     "离开3": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -457,8 +457,8 @@
         ]
     },
     "确定离开3": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -467,8 +467,8 @@
         ]
     },
     "来就来3": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -476,8 +476,8 @@
         ]
     },
     "确定来就来3": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -485,8 +485,8 @@
         ]
     },
     "收下3": {
-        "recognition": "TemplateMatch",
-        "template": "收下.png",
+        "recognition": "OCR",
+        "expected": "收下",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -494,8 +494,8 @@
         ]
     },
     "确定收下3": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -530,8 +530,8 @@
         ]
     },
     "欣然应允4": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -539,8 +539,8 @@
         ]
     },
     "确定欣然应允4": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -548,8 +548,8 @@
         ]
     },
     "衡如常4": {
-        "recognition": "TemplateMatch",
-        "template": "衡如常.png",
+        "recognition": "OCR",
+        "expected": "衡如常",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -557,8 +557,8 @@
         ]
     },
     "确定衡如常4": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -576,8 +576,8 @@
         ]
     },
     "离开4": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -585,8 +585,8 @@
         ]
     },
     "确定离开4": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -595,8 +595,8 @@
         ]
     },
     "来就来4": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -604,8 +604,8 @@
         ]
     },
     "确定来就来4": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -613,8 +613,8 @@
         ]
     },
     "收下4": {
-        "recognition": "TemplateMatch",
-        "template": "收下.png",
+        "recognition": "OCR",
+        "expected": "收下",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -622,8 +622,8 @@
         ]
     },
     "确定收下4": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -658,8 +658,8 @@
         ]
     },
     "欣然应允5": {
-        "recognition": "TemplateMatch",
-        "template": "欣然应允.png",
+        "recognition": "OCR",
+        "expected": "欣然应允",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -667,8 +667,8 @@
         ]
     },
     "确定欣然应允5": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -676,16 +676,17 @@
         ]
     },
     "厉如锋5": {
-        "recognition": "TemplateMatch",
-        "template": "厉如锋.png",
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
             "确定厉如锋5"
         ]
     },
     "确定厉如锋5": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -703,8 +704,8 @@
         ]
     },
     "离开5": {
-        "recognition": "TemplateMatch",
-        "template": "离开.png",
+        "recognition": "OCR",
+        "expected": "离开",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -712,8 +713,8 @@
         ]
     },
     "确定离开5": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 3000,
         "next": [
@@ -722,8 +723,8 @@
         ]
     },
     "来就来5": {
-        "recognition": "TemplateMatch",
-        "template": "来就来.png",
+        "recognition": "OCR",
+        "expected": "来就来",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -731,8 +732,8 @@
         ]
     },
     "确定来就来5": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
@@ -740,8 +741,8 @@
         ]
     },
     "要酒一壶5": {
-        "recognition": "TemplateMatch",
-        "template": "要酒一壶.png",
+        "recognition": "OCR",
+        "expected": "要酒一壶",
         "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
@@ -749,8 +750,8 @@
         ]
     },
     "确定要酒一壶5": {
-        "recognition": "TemplateMatch",
-        "template": "确定这么做.png",
+        "recognition": "OCR",
+        "expected": "确定这么做",
         "action": "Click",
         "pre_wait_freezes": 2000,
         "next": [
