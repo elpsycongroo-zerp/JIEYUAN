@@ -678,7 +678,6 @@
     "厉如锋5": {
         "recognition": "TemplateMatch",
         "template": "厉如锋.png",
-        "pre_wait_freezes": 1000,
         "action": "Click",
         "next": [
             "确定厉如锋5"
