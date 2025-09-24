@@ -115,8 +115,8 @@
     },
     "退出": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐1"
@@ -238,8 +238,8 @@
     },
     "退出1": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐2"
@@ -361,8 +361,8 @@
     },
     "退出2": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐3"
@@ -484,8 +484,8 @@
     },
     "退出3": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐4"
@@ -607,8 +607,8 @@
     },
     "退出4": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐5"
@@ -730,8 +730,8 @@
     },
     "退出5": {
         "pre_wait_freezes": 3000,
-        "recognition": "TemplateMatch",
-        "template": "退出.png",
+        "recognition": "OCR",
+        "expected": "对饮行乐",
         "action": "Click",
         "next": [
             "令常乐"
