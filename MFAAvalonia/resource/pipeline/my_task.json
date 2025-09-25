@@ -1,15 +1,27 @@
 {
     "令常乐": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往"
         ]
     },
     "出发前往": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允"
@@ -44,15 +56,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果"
+            "获得了65源石锭",
+            "什么都没有发生"
         ]
     },
-    "结果": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "收下",
             "离开"
         ]
     },
@@ -73,6 +91,14 @@
             "重来"
         ]
     },
+    "重来": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐"
+        ]
+    },
     "来就来": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -87,6 +113,20 @@
         "action": "Click",
         "next": [
             "衡如常"
+        ]
+    },
+    "获得了65源石锭": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下"
         ]
     },
     "收下": {
@@ -105,14 +145,6 @@
             "退出"
         ]
     },
-    "重来": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐"
-        ]
-    },
     "退出": {
         "recognition": "OCR",
         "expected": "对饮行乐",
@@ -122,16 +154,28 @@
         ]
     },
     "令常乐1": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往1"
         ]
     },
     "出发前往1": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允1"
@@ -166,15 +210,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果1"
+            "获得了65源石锭1",
+            "什么都没有发生1"
         ]
     },
-    "结果1": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生1": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "收下1",
             "离开1"
         ]
     },
@@ -195,6 +245,14 @@
             "重来1"
         ]
     },
+    "重来1": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐1"
+        ]
+    },
     "来就来1": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -209,6 +267,20 @@
         "action": "Click",
         "next": [
             "衡如常1"
+        ]
+    },
+    "获得了65源石锭1": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下1"
         ]
     },
     "收下1": {
@@ -227,14 +299,6 @@
             "退出1"
         ]
     },
-    "重来1": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐1"
-        ]
-    },
     "退出1": {
         "recognition": "OCR",
         "expected": "对饮行乐",
@@ -244,16 +308,28 @@
         ]
     },
     "令常乐2": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往2"
         ]
     },
     "出发前往2": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允2"
@@ -288,15 +364,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果2"
+            "获得了65源石锭2",
+            "什么都没有发生2"
         ]
     },
-    "结果2": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生2": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "收下2",
             "离开2"
         ]
     },
@@ -317,6 +399,14 @@
             "重来2"
         ]
     },
+    "重来2": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐2"
+        ]
+    },
     "来就来2": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -331,6 +421,20 @@
         "action": "Click",
         "next": [
             "衡如常2"
+        ]
+    },
+    "获得了65源石锭2": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下2"
         ]
     },
     "收下2": {
@@ -349,14 +453,6 @@
             "退出2"
         ]
     },
-    "重来2": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐2"
-        ]
-    },
     "退出2": {
         "recognition": "OCR",
         "expected": "对饮行乐",
@@ -366,16 +462,28 @@
         ]
     },
     "令常乐3": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往3"
         ]
     },
     "出发前往3": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允3"
@@ -410,15 +518,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果3"
+            "获得了65源石锭3",
+            "什么都没有发生3"
         ]
     },
-    "结果3": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生3": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "收下3",
             "离开3"
         ]
     },
@@ -439,6 +553,14 @@
             "重来3"
         ]
     },
+    "重来3": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐3"
+        ]
+    },
     "来就来3": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -453,6 +575,20 @@
         "action": "Click",
         "next": [
             "衡如常3"
+        ]
+    },
+    "获得了65源石锭3": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下3"
         ]
     },
     "收下3": {
@@ -471,14 +607,6 @@
             "退出3"
         ]
     },
-    "重来3": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐3"
-        ]
-    },
     "退出3": {
         "recognition": "OCR",
         "expected": "对饮行乐",
@@ -488,25 +616,37 @@
         ]
     },
     "令常乐4": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往4"
         ]
     },
     "出发前往4": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允4"
         ]
     },
     "欣然应允4": {
-        "action": "Click",
         "recognition": "OCR",
         "expected": "欣然应允",
+        "action": "Click",
         "next": [
             "确定欣然应允4"
         ]
@@ -532,15 +672,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果4"
+            "获得了65源石锭4",
+            "什么都没有发生4"
         ]
     },
-    "结果4": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生4": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "收下4",
             "离开4"
         ]
     },
@@ -561,6 +707,14 @@
             "重来4"
         ]
     },
+    "重来4": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐4"
+        ]
+    },
     "来就来4": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -575,6 +729,20 @@
         "action": "Click",
         "next": [
             "衡如常4"
+        ]
+    },
+    "获得了65源石锭4": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下4"
         ]
     },
     "收下4": {
@@ -593,14 +761,6 @@
             "退出4"
         ]
     },
-    "重来4": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐4"
-        ]
-    },
     "退出4": {
         "recognition": "OCR",
         "expected": "对饮行乐",
@@ -610,16 +770,28 @@
         ]
     },
     "令常乐5": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往5"
         ]
     },
     "出发前往5": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允5"
@@ -654,15 +826,21 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果5"
+            "获得了自选奖励5",
+            "什么都没有发生5"
         ]
     },
-    "结果5": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "什么都没有发生5": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
-            "要酒一壶5",
             "离开5"
         ]
     },
@@ -683,6 +861,14 @@
             "重来5"
         ]
     },
+    "重来5": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐5"
+        ]
+    },
     "来就来5": {
         "recognition": "OCR",
         "expected": "来就来",
@@ -699,6 +885,20 @@
             "厉如锋5"
         ]
     },
+    "获得了自选奖励5": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要酒一壶5"
+        ]
+    },
     "要酒一壶5": {
         "recognition": "OCR",
         "expected": "要酒一壶",
@@ -713,14 +913,6 @@
         "action": "Click",
         "next": [
             "退出5"
-        ]
-    },
-    "重来5": {
-        "recognition": "OCR",
-        "expected": "不见踪影",
-        "action": "Click",
-        "next": [
-            "令常乐5"
         ]
     },
     "退出5": {

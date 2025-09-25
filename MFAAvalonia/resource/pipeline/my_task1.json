@@ -135,14 +135,8 @@
         ]
     },
     "关闭热水壶": {
-        "recognition": "OCR",
-        "expected": "热水壶",
-        "target": [
-            635,
-            531,
-            33,
-            34
-        ],
+        "recognition": "TemplateMatch",
+        "template": "关闭热水壶.png",
         "action": "Click",
         "next": [
             "行",
