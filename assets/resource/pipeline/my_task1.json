@@ -46,7 +46,6 @@
         ]
     },
     "愿赌服输": {
-        "pre_wait_freezes": 2000,
         "recognition": "OCR",
         "expected": "愿赌服输",
         "action": "Click",
@@ -63,7 +62,6 @@
         ]
     },
     "帮我再炼一炼": {
-        "pre_wait_freezes": 2000,
         "recognition": "OCR",
         "expected": "帮我再炼一炼",
         "action": "Click",
@@ -80,7 +78,6 @@
         ]
     },
     "再来一把嘛": {
-        "pre_wait_freezes": 2000,
         "recognition": "OCR",
         "expected": "获得3源石锭，2希望，2护盾，1件随机收藏",
         "action": "Click",
@@ -97,7 +94,6 @@
         ]
     },
     "我要绝世珍宝": {
-        "pre_wait_freezes": 2000,
         "recognition": "OCR",
         "expected": "我要绝世珍宝",
         "action": "Click",
@@ -114,7 +110,6 @@
         ]
     },
     "年收下": {
-        "pre_wait_freezes": 2000,
         "recognition": "OCR",
         "expected": "收下",
         "action": "Click",
