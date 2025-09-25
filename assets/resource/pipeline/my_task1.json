@@ -1,7 +1,11 @@
 {
     "年常乐": {
-        "recognition": "TemplateMatch",
-        "template": "年常乐.png",
+        "target": [
+            425,
+            490,
+            152,
+            149
+        ],
         "action": "Click",
         "next": [
             "年出发前往"
@@ -69,11 +73,18 @@
     },
     "再来一把嘛": {
         "recognition": "OCR",
-        "expected": "再来一把嘛",
+        "expected": "获得3源石锭，2希望，2护盾，1件随机收藏",
         "action": "Click",
         "next": [
-            "不来了",
-            "行"
+            "确定再来一把"
+        ]
+    },
+    "确定再来一把": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶"
         ]
     },
     "不来了": {
@@ -122,7 +133,8 @@
         "template": "关闭热水壶.png",
         "action": "Click",
         "next": [
-            "行"
+            "行",
+            "不来了"
         ]
     },
     "行": {

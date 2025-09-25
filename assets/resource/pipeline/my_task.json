@@ -1,7 +1,11 @@
 {
     "令常乐": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往"
@@ -122,8 +126,12 @@
         ]
     },
     "令常乐1": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往1"
@@ -244,8 +252,12 @@
         ]
     },
     "令常乐2": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往2"
@@ -366,8 +378,12 @@
         ]
     },
     "令常乐3": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往3"
@@ -488,8 +504,12 @@
         ]
     },
     "令常乐4": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往4"
@@ -610,8 +630,12 @@
         ]
     },
     "令常乐5": {
-        "recognition": "TemplateMatch",
-        "template": "令常乐.png",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
         "action": "Click",
         "next": [
             "出发前往5"
