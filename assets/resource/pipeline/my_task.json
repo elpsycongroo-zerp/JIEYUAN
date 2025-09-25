@@ -12,8 +12,14 @@
         ]
     },
     "出发前往": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允"
@@ -138,8 +144,14 @@
         ]
     },
     "出发前往1": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允1"
@@ -264,8 +276,14 @@
         ]
     },
     "出发前往2": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允2"
@@ -390,8 +408,14 @@
         ]
     },
     "出发前往3": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允3"
@@ -516,17 +540,23 @@
         ]
     },
     "出发前往4": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允4"
         ]
     },
     "欣然应允4": {
-        "action": "Click",
         "recognition": "OCR",
         "expected": "欣然应允",
+        "action": "Click",
         "next": [
             "确定欣然应允4"
         ]
@@ -642,8 +672,14 @@
         ]
     },
     "出发前往5": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "欣然应允5"
@@ -678,12 +714,18 @@
         "expected": "确定这么做",
         "action": "Click",
         "next": [
-            "结果5"
+            "获得了自选奖励5"
         ]
     },
-    "结果5": {
-        "recognition": "TemplateMatch",
-        "template": "结果.png",
+    "获得了自选奖励5": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
         "action": "Click",
         "next": [
             "要酒一壶5",

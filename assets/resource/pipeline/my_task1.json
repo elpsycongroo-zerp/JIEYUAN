@@ -12,8 +12,14 @@
         ]
     },
     "年出发前往": {
-        "recognition": "TemplateMatch",
-        "template": "出发前往.png",
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
         "action": "Click",
         "next": [
             "那就来一把"
