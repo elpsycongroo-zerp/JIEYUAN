@@ -1,0 +1,148 @@
+{
+    "年常乐": {
+        "recognition": "TemplateMatch",
+        "template": "年常乐.png",
+        "action": "Click",
+        "next": [
+            "年出发前往"
+        ]
+    },
+    "年出发前往": {
+        "recognition": "TemplateMatch",
+        "template": "出发前往.png",
+        "action": "Click",
+        "next": [
+            "那就来一把"
+        ]
+    },
+    "那就来一把": {
+        "recognition": "OCR",
+        "expected": "那就来一把",
+        "action": "Click",
+        "next": [
+            "确定那就来一把"
+        ]
+    },
+    "确定那就来一把": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "年收下",
+            "我要绝世珍宝",
+            "再来一把嘛",
+            "帮我再炼一炼",
+            "愿赌服输"
+        ]
+    },
+    "愿赌服输": {
+        "recognition": "OCR",
+        "expected": "愿赌服输",
+        "action": "Click",
+        "next": [
+            "确定愿赌服输"
+        ]
+    },
+    "确定愿赌服输": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "行"
+        ]
+    },
+    "帮我再炼一炼": {
+        "recognition": "OCR",
+        "expected": "帮我再炼一炼",
+        "action": "Click",
+        "next": [
+            "确定帮我再炼一炼"
+        ]
+    },
+    "确定帮我再炼一炼": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "行"
+        ]
+    },
+    "再来一把嘛": {
+        "recognition": "OCR",
+        "expected": "再来一把嘛",
+        "action": "Click",
+        "next": [
+            "不来了",
+            "行"
+        ]
+    },
+    "不来了": {
+        "recognition": "OCR",
+        "expected": "不来了",
+        "action": "Click",
+        "next": [
+            "年常乐"
+        ]
+    },
+    "我要绝世珍宝": {
+        "recognition": "OCR",
+        "expected": "我要绝世珍宝",
+        "action": "Click",
+        "next": [
+            "确定我要绝世珍宝"
+        ]
+    },
+    "确定我要绝世珍宝": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "行"
+        ]
+    },
+    "年收下": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定年收下"
+        ]
+    },
+    "确定年收下": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶",
+            "行"
+        ]
+    },
+    "关闭热水壶": {
+        "recognition": "TemplateMatch",
+        "template": "关闭热水壶.png",
+        "action": "Click",
+        "next": [
+            "行"
+        ]
+    },
+    "行": {
+        "recognition": "OCR",
+        "expected": "行",
+        "action": "Click",
+        "next": [
+            "确定行"
+        ]
+    },
+    "确定行": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "年收下",
+            "我要绝世珍宝",
+            "再来一把嘛",
+            "帮我再炼一炼",
+            "愿赌服输"
+        ]
+    }
+}
