@@ -1,0 +1,1343 @@
+{
+    "令常乐s": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往s"
+        ]
+    },
+    "出发前往s": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允s"
+        ]
+    },
+    "欣然应允s": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允s"
+        ]
+    },
+    "确定欣然应允s": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋s"
+        ]
+    },
+    "厉如锋s": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋s"
+        ]
+    },
+    "确定厉如锋s": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励s",
+            "什么都没有发生s"
+        ]
+    },
+    "什么都没有发生s": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开s"
+        ]
+    },
+    "离开s": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开s"
+        ]
+    },
+    "确定离开s": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来s",
+            "重来s"
+        ]
+    },
+    "重来s": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐s"
+        ]
+    },
+    "来就来s": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来s"
+        ]
+    },
+    "确定来就来s": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋s"
+        ]
+    },
+    "获得了自选奖励s": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要兵器一对s"
+        ]
+    },
+    "要兵器一对s": {
+        "recognition": "OCR",
+        "expected": "要兵器一对",
+        "action": "Click",
+        "next": [
+            "确定要兵器一对s"
+        ]
+    },
+    "确定要兵器一对s": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶s"
+        ]
+    },
+    "关闭热水壶s": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s1"
+        ]
+    },
+    "关闭热水壶s1": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s2"
+        ]
+    },
+    "关闭热水壶s2": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s3"
+        ]
+    },
+    "关闭热水壶s3": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s4"
+        ]
+    },
+    "关闭热水壶s4": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s5"
+        ]
+    },
+    "关闭热水壶s5": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            634,
+            532,
+            36,
+            33
+        ],
+        "action": "Click",
+        "next": [
+            "退出s"
+        ]
+    },
+    "退出s": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐sa"
+        ]
+    },
+    "令常乐sa": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往sa"
+        ]
+    },
+    "出发前往sa": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允sa"
+        ]
+    },
+    "欣然应允sa": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允sa"
+        ]
+    },
+    "确定欣然应允sa": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sa"
+        ]
+    },
+    "厉如锋sa": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋sa"
+        ]
+    },
+    "确定厉如锋sa": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励sa",
+            "什么都没有发生sa"
+        ]
+    },
+    "什么都没有发生sa": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开sa"
+        ]
+    },
+    "离开sa": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开sa"
+        ]
+    },
+    "确定离开sa": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来sa",
+            "重来sa"
+        ]
+    },
+    "重来sa": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐sa"
+        ]
+    },
+    "来就来sa": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来sa"
+        ]
+    },
+    "确定来就来sa": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sa"
+        ]
+    },
+    "获得了自选奖励sa": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要兵器一对sa"
+        ]
+    },
+    "要兵器一对sa": {
+        "recognition": "OCR",
+        "expected": "要兵器一对",
+        "action": "Click",
+        "next": [
+            "确定要兵器一对sa"
+        ]
+    },
+    "确定要兵器一对sa": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶sa"
+        ]
+    },
+    "关闭热水壶sa": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s1a"
+        ]
+    },
+    "关闭热水壶s1a": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s2a"
+        ]
+    },
+    "关闭热水壶s2a": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s3a"
+        ]
+    },
+    "关闭热水壶s3a": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s4a"
+        ]
+    },
+    "关闭热水壶s4a": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s5a"
+        ]
+    },
+    "关闭热水壶s5a": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            634,
+            532,
+            36,
+            33
+        ],
+        "action": "Click",
+        "next": [
+            "退出sa"
+        ]
+    },
+    "退出sa": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐sb"
+        ]
+    },
+    "令常乐sb": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往sb"
+        ]
+    },
+    "出发前往sb": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允sb"
+        ]
+    },
+    "欣然应允sb": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允sb"
+        ]
+    },
+    "确定欣然应允sb": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sb"
+        ]
+    },
+    "厉如锋sb": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋sb"
+        ]
+    },
+    "确定厉如锋sb": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励sb",
+            "什么都没有发生sb"
+        ]
+    },
+    "什么都没有发生sb": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开sb"
+        ]
+    },
+    "离开sb": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开sb"
+        ]
+    },
+    "确定离开sb": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来sb",
+            "重来sb"
+        ]
+    },
+    "重来sb": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐sb"
+        ]
+    },
+    "来就来sb": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来sb"
+        ]
+    },
+    "确定来就来sb": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sb"
+        ]
+    },
+    "获得了自选奖励sb": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要兵器一对sb"
+        ]
+    },
+    "要兵器一对sb": {
+        "recognition": "OCR",
+        "expected": "要兵器一对",
+        "action": "Click",
+        "next": [
+            "确定要兵器一对sb"
+        ]
+    },
+    "确定要兵器一对sb": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶sb"
+        ]
+    },
+    "关闭热水壶sb": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s1b"
+        ]
+    },
+    "关闭热水壶s1b": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s2b"
+        ]
+    },
+    "关闭热水壶s2b": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s3b"
+        ]
+    },
+    "关闭热水壶s3b": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s4b"
+        ]
+    },
+    "关闭热水壶s4b": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s5b"
+        ]
+    },
+    "关闭热水壶s5b": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            634,
+            532,
+            36,
+            33
+        ],
+        "action": "Click",
+        "next": [
+            "退出sb"
+        ]
+    },
+    "退出sb": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐sc"
+        ]
+    },
+    "令常乐sc": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往sc"
+        ]
+    },
+    "出发前往sc": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允sc"
+        ]
+    },
+    "欣然应允sc": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允sc"
+        ]
+    },
+    "确定欣然应允sc": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sc"
+        ]
+    },
+    "厉如锋sc": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋sc"
+        ]
+    },
+    "确定厉如锋sc": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励sc",
+            "什么都没有发生sc"
+        ]
+    },
+    "什么都没有发生sc": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开sc"
+        ]
+    },
+    "离开sc": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开sc"
+        ]
+    },
+    "确定离开sc": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来sc",
+            "重来sc"
+        ]
+    },
+    "重来sc": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐sc"
+        ]
+    },
+    "来就来sc": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来sc"
+        ]
+    },
+    "确定来就来sc": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sc"
+        ]
+    },
+    "获得了自选奖励sc": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要兵器一对sc"
+        ]
+    },
+    "要兵器一对sc": {
+        "recognition": "OCR",
+        "expected": "要兵器一对",
+        "action": "Click",
+        "next": [
+            "确定要兵器一对sc"
+        ]
+    },
+    "确定要兵器一对sc": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶sc"
+        ]
+    },
+    "关闭热水壶sc": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s1c"
+        ]
+    },
+    "关闭热水壶s1c": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s2c"
+        ]
+    },
+    "关闭热水壶s2c": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s3c"
+        ]
+    },
+    "关闭热水壶s3c": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s4c"
+        ]
+    },
+    "关闭热水壶s4c": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s5c"
+        ]
+    },
+    "关闭热水壶s5c": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            634,
+            532,
+            36,
+            33
+        ],
+        "action": "Click",
+        "next": [
+            "退出sc"
+        ]
+    },
+    "退出sc": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐sd"
+        ]
+    },
+    "令常乐sd": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往sd"
+        ]
+    },
+    "出发前往sd": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允sd"
+        ]
+    },
+    "欣然应允sd": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允sd"
+        ]
+    },
+    "确定欣然应允sd": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sd"
+        ]
+    },
+    "厉如锋sd": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋sd"
+        ]
+    },
+    "确定厉如锋sd": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励sd",
+            "什么都没有发生sd"
+        ]
+    },
+    "什么都没有发生sd": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开sd"
+        ]
+    },
+    "离开sd": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开sd"
+        ]
+    },
+    "确定离开sd": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来sd",
+            "重来sd"
+        ]
+    },
+    "重来sd": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐sd"
+        ]
+    },
+    "来就来sd": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来sd"
+        ]
+    },
+    "确定来就来sd": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋sd"
+        ]
+    },
+    "获得了自选奖励sd": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要兵器一对sd"
+        ]
+    },
+    "要兵器一对sd": {
+        "recognition": "OCR",
+        "expected": "要兵器一对",
+        "action": "Click",
+        "next": [
+            "确定要兵器一对sd"
+        ]
+    },
+    "确定要兵器一对sd": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "关闭热水壶sd"
+        ]
+    },
+    "关闭热水壶sd": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s1d"
+        ]
+    },
+    "关闭热水壶s1d": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s2d"
+        ]
+    },
+    "关闭热水壶s2d": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s3d"
+        ]
+    },
+    "关闭热水壶s3d": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s4d"
+        ]
+    },
+    "关闭热水壶s4d": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            617,
+            539,
+            68,
+            17
+        ],
+        "action": "Click",
+        "next": [
+            "关闭热水壶s5d"
+        ]
+    },
+    "关闭热水壶s5d": {
+        "recognition": "OCR",
+        "expected": "热水壶",
+        "target": [
+            634,
+            532,
+            36,
+            33
+        ],
+        "action": "Click",
+        "next": [
+            "退出sd"
+        ]
+    },
+    "退出sd": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐se"
+        ]
+    },
+    "令常乐se": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往se"
+        ]
+    },
+    "出发前往se": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允se"
+        ]
+    },
+    "欣然应允se": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允se"
+        ]
+    },
+    "确定欣然应允se": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋se"
+        ]
+    },
+    "厉如锋se": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋se"
+        ]
+    },
+    "确定厉如锋se": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励se",
+            "什么都没有发生se"
+        ]
+    },
+    "什么都没有发生se": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开se"
+        ]
+    },
+    "离开se": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开se"
+        ]
+    },
+    "确定离开se": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来se",
+            "重来se"
+        ]
+    },
+    "重来se": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐se"
+        ]
+    },
+    "来就来se": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来se"
+        ]
+    },
+    "确定来就来se": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋se"
+        ]
+    },
+    "获得了自选奖励se": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要酒一壶se"
+        ]
+    },
+    "要酒一壶se": {
+        "recognition": "OCR",
+        "expected": "要酒一壶",
+        "action": "Click",
+        "next": [
+            "确定要酒一壶se"
+        ]
+    },
+    "确定要酒一壶se": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出se"
+        ]
+    },
+    "退出se": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click"
+    }
+}

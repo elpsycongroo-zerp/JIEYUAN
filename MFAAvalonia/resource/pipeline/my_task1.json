@@ -47,7 +47,7 @@
     },
     "愿赌服输": {
         "recognition": "OCR",
-        "expected": "愿赌服输",
+        "expected": "失去1目标生命值及等量上限",
         "action": "Click",
         "next": [
             "确定愿赌服输"

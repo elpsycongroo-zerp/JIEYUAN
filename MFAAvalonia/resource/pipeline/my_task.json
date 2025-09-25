@@ -1,0 +1,926 @@
+{
+    "令常乐": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往"
+        ]
+    },
+    "出发前往": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允"
+        ]
+    },
+    "欣然应允": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允"
+        ]
+    },
+    "确定欣然应允": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常"
+        ]
+    },
+    "衡如常": {
+        "recognition": "OCR",
+        "expected": "衡如常",
+        "action": "Click",
+        "next": [
+            "确定衡如常"
+        ]
+    },
+    "确定衡如常": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了65源石锭",
+            "什么都没有发生"
+        ]
+    },
+    "什么都没有发生": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开"
+        ]
+    },
+    "离开": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开"
+        ]
+    },
+    "确定离开": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来",
+            "重来"
+        ]
+    },
+    "重来": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐"
+        ]
+    },
+    "来就来": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来"
+        ]
+    },
+    "确定来就来": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常"
+        ]
+    },
+    "获得了65源石锭": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下"
+        ]
+    },
+    "收下": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定收下"
+        ]
+    },
+    "确定收下": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出"
+        ]
+    },
+    "退出": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐1"
+        ]
+    },
+    "令常乐1": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往1"
+        ]
+    },
+    "出发前往1": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允1"
+        ]
+    },
+    "欣然应允1": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允1"
+        ]
+    },
+    "确定欣然应允1": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常1"
+        ]
+    },
+    "衡如常1": {
+        "recognition": "OCR",
+        "expected": "衡如常",
+        "action": "Click",
+        "next": [
+            "确定衡如常1"
+        ]
+    },
+    "确定衡如常1": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了65源石锭1",
+            "什么都没有发生1"
+        ]
+    },
+    "什么都没有发生1": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开1"
+        ]
+    },
+    "离开1": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开1"
+        ]
+    },
+    "确定离开1": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来1",
+            "重来1"
+        ]
+    },
+    "重来1": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐1"
+        ]
+    },
+    "来就来1": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来1"
+        ]
+    },
+    "确定来就来1": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常1"
+        ]
+    },
+    "获得了65源石锭1": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下1"
+        ]
+    },
+    "收下1": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定收下1"
+        ]
+    },
+    "确定收下1": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出1"
+        ]
+    },
+    "退出1": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐2"
+        ]
+    },
+    "令常乐2": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往2"
+        ]
+    },
+    "出发前往2": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允2"
+        ]
+    },
+    "欣然应允2": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允2"
+        ]
+    },
+    "确定欣然应允2": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常2"
+        ]
+    },
+    "衡如常2": {
+        "recognition": "OCR",
+        "expected": "衡如常",
+        "action": "Click",
+        "next": [
+            "确定衡如常2"
+        ]
+    },
+    "确定衡如常2": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了65源石锭2",
+            "什么都没有发生2"
+        ]
+    },
+    "什么都没有发生2": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开2"
+        ]
+    },
+    "离开2": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开2"
+        ]
+    },
+    "确定离开2": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来2",
+            "重来2"
+        ]
+    },
+    "重来2": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐2"
+        ]
+    },
+    "来就来2": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来2"
+        ]
+    },
+    "确定来就来2": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常2"
+        ]
+    },
+    "获得了65源石锭2": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下2"
+        ]
+    },
+    "收下2": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定收下2"
+        ]
+    },
+    "确定收下2": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出2"
+        ]
+    },
+    "退出2": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐3"
+        ]
+    },
+    "令常乐3": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往3"
+        ]
+    },
+    "出发前往3": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允3"
+        ]
+    },
+    "欣然应允3": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允3"
+        ]
+    },
+    "确定欣然应允3": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常3"
+        ]
+    },
+    "衡如常3": {
+        "recognition": "OCR",
+        "expected": "衡如常",
+        "action": "Click",
+        "next": [
+            "确定衡如常3"
+        ]
+    },
+    "确定衡如常3": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了65源石锭3",
+            "什么都没有发生3"
+        ]
+    },
+    "什么都没有发生3": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开3"
+        ]
+    },
+    "离开3": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开3"
+        ]
+    },
+    "确定离开3": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来3",
+            "重来3"
+        ]
+    },
+    "重来3": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐3"
+        ]
+    },
+    "来就来3": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来3"
+        ]
+    },
+    "确定来就来3": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常3"
+        ]
+    },
+    "获得了65源石锭3": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下3"
+        ]
+    },
+    "收下3": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定收下3"
+        ]
+    },
+    "确定收下3": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出3"
+        ]
+    },
+    "退出3": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐4"
+        ]
+    },
+    "令常乐4": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往4"
+        ]
+    },
+    "出发前往4": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允4"
+        ]
+    },
+    "欣然应允4": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允4"
+        ]
+    },
+    "确定欣然应允4": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常4"
+        ]
+    },
+    "衡如常4": {
+        "recognition": "OCR",
+        "expected": "衡如常",
+        "action": "Click",
+        "next": [
+            "确定衡如常4"
+        ]
+    },
+    "确定衡如常4": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了65源石锭4",
+            "什么都没有发生4"
+        ]
+    },
+    "什么都没有发生4": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开4"
+        ]
+    },
+    "离开4": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开4"
+        ]
+    },
+    "确定离开4": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来4",
+            "重来4"
+        ]
+    },
+    "重来4": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐4"
+        ]
+    },
+    "来就来4": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来4"
+        ]
+    },
+    "确定来就来4": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "衡如常4"
+        ]
+    },
+    "获得了65源石锭4": {
+        "recognition": "OCR",
+        "expected": "获得了65源石锭",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "收下4"
+        ]
+    },
+    "收下4": {
+        "recognition": "OCR",
+        "expected": "收下",
+        "action": "Click",
+        "next": [
+            "确定收下4"
+        ]
+    },
+    "确定收下4": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出4"
+        ]
+    },
+    "退出4": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐5"
+        ]
+    },
+    "令常乐5": {
+        "recognition": "OCR",
+        "expected": "常乐",
+        "target": [
+            282,
+            62,
+            154,
+            146
+        ],
+        "action": "Click",
+        "next": [
+            "出发前往5"
+        ]
+    },
+    "出发前往5": {
+        "recognition": "OCR",
+        "expected": "游戏人间",
+        "target": [
+            1128,
+            509,
+            59,
+            60
+        ],
+        "action": "Click",
+        "next": [
+            "欣然应允5"
+        ]
+    },
+    "欣然应允5": {
+        "recognition": "OCR",
+        "expected": "欣然应允",
+        "action": "Click",
+        "next": [
+            "确定欣然应允5"
+        ]
+    },
+    "确定欣然应允5": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋5"
+        ]
+    },
+    "厉如锋5": {
+        "recognition": "OCR",
+        "expected": "厉如锋",
+        "action": "Click",
+        "next": [
+            "确定厉如锋5"
+        ]
+    },
+    "确定厉如锋5": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "获得了自选奖励5",
+            "什么都没有发生5"
+        ]
+    },
+    "什么都没有发生5": {
+        "recognition": "OCR",
+        "expected": "什么都没有发生",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "离开5"
+        ]
+    },
+    "离开5": {
+        "recognition": "OCR",
+        "expected": "离开",
+        "action": "Click",
+        "next": [
+            "确定离开5"
+        ]
+    },
+    "确定离开5": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "来就来5",
+            "重来5"
+        ]
+    },
+    "重来5": {
+        "recognition": "OCR",
+        "expected": "不见踪影",
+        "action": "Click",
+        "next": [
+            "令常乐5"
+        ]
+    },
+    "来就来5": {
+        "recognition": "OCR",
+        "expected": "来就来",
+        "action": "Click",
+        "next": [
+            "确定来就来5"
+        ]
+    },
+    "确定来就来5": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "厉如锋5"
+        ]
+    },
+    "获得了自选奖励5": {
+        "recognition": "OCR",
+        "expected": "获得了自选奖励",
+        "target": [
+            623,
+            629,
+            32,
+            31
+        ],
+        "action": "Click",
+        "next": [
+            "要酒一壶5"
+        ]
+    },
+    "要酒一壶5": {
+        "recognition": "OCR",
+        "expected": "要酒一壶",
+        "action": "Click",
+        "next": [
+            "确定要酒一壶5"
+        ]
+    },
+    "确定要酒一壶5": {
+        "recognition": "OCR",
+        "expected": "确定这么做",
+        "action": "Click",
+        "next": [
+            "退出5"
+        ]
+    },
+    "退出5": {
+        "recognition": "OCR",
+        "expected": "对饮行乐",
+        "action": "Click",
+        "next": [
+            "令常乐"
+        ]
+    }
+}

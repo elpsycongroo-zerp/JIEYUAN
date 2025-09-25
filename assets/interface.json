@@ -28,9 +28,10 @@
             ]
         }
     ],
-    "agent_demo": {
+    "agent": {
         "child_exec": "python",
         "child_args": [
+            "-u",
             "{PROJECT_DIR}/agent/main.py"
         ]
     },
@@ -42,6 +43,13 @@
         {
             "name": "刷母鼎",
             "entry": "年常乐"
+        },
+        {
+            "name": "叠生命值",
+            "entry": "令常乐s",
+            "advanced": [
+                "作战次数"
+            ]
         },
         {
             "name": "普通任务",
@@ -67,26 +75,51 @@
             "entry": "MyTask4"
         }
     ],
-    "option": {
-        "任务选项1": {
-            "cases": [
-                {
-                    "name": "文本1",
-                    "pipeline_override": {
-                        "OcrTask": {
-                            "text": "文本1"
-                        }
-                    }
-                },
-                {
-                    "name": "文本2",
-                    "pipeline_override": {
-                        "OcrTask": {
-                            "text": "文本2"
+    "advanced": {
+        "作战次数": {
+            "field": [
+                "作战次数"
+            ],
+            "type": [
+                "int"
+            ],
+            "default": [
+                "0"
+            ],
+            "pipeline_override": {
+                "AllIn": {
+                    "action": {
+                        "param": {
+                            "custom_action_param": {
+                                "target_count": "{作战次数}"
+                            }
                         }
                     }
                 }
-            ]
+            },
+            "doc": "填0清空体力；填其他数字按次数刷；其他情况清空体力"
+        },
+        "option": {
+            "任务选项1": {
+                "cases": [
+                    {
+                        "name": "文本1",
+                        "pipeline_override": {
+                            "OcrTask": {
+                                "text": "文本1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "文本2",
+                        "pipeline_override": {
+                            "OcrTask": {
+                                "text": "文本2"
+                            }
+                        }
+                    }
+                ]
+            }
         }
     }
 }
